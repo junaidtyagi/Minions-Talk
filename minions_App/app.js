@@ -18,7 +18,7 @@ function fun(){
     fetch(getTranslationUrl(inputText))
         .then(respon => respon.json())
         .then(jso => {
-           var translatedText= json.contents.translated;
+           var translatedText= jso.contents.translated;
             outputDiv.innerText= translatedText;
         })
         .catch(errorHandler);
