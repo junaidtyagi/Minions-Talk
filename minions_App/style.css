@@ -1,0 +1,31 @@
+textarea{
+    width: 50%;
+     height:10vh;
+     display: block;
+     padding:1px;
+     margin: auto; 
+     margin-bottom: 10px ;
+     font-size: large;
+ }
+
+ h1{
+    color:white;
+    text-align: center;
+ }
+ #div{
+    color :lightgreen;
+    
+ }
+ #btn-translate{
+    margin-left: 400px;
+ }
+ p{
+    margin-left: 400px;
+    margin-bottom: 10px;
+    font-size: large;
+ }
+ 
+ body{
+    
+     background-color: darkgreen;
+ }
