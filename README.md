@@ -1,2 +1,2 @@
 # firstApp
- it will translate a english language to minions
+ translate  english language to minions language 
